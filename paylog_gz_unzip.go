@@ -1,5 +1,5 @@
 /*
- 支付日志gz文件解压缩脚本
+ 日志gz文件解压缩脚本
  @author jakquan
  @since 2015/3/30
 */
