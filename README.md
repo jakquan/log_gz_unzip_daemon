@@ -9,5 +9,5 @@ github.com/xgdapg/daemon<br/>
 ###Use
 ```shell
 go build paylog_gz_unzip.go
-./paylog_gz_unzip
+./paylog_gz_unzip --conf=default.conf
 ```
