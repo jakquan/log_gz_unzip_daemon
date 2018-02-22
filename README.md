@@ -12,4 +12,3 @@ go build paylog_gz_unzip.go
 ./paylog_gz_unzip --conf=default.conf
 ```
 
-###
