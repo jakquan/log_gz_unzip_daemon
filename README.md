@@ -16,3 +16,5 @@ go build paylog_gz_unzip.go
 
 
 test2
+
+test
